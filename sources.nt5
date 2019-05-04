@@ -1,0 +1,41 @@
+MAJORCOMP=ntos
+MINORCOMP=nwfs
+
+TARGETNAME=nwfs
+TARGETPATH=..
+TARGETTYPE=LIBRARY
+INCLUDES=..\inc;$(BASEDIR)\SRC\FILESYS\INC
+
+MSC_WARNING_LEVEL=/WX
+
+SOURCES=nwvfs.c          \
+        alloc.c          \
+        disk.c           \
+        nwpart.c         \
+        volume.c         \
+        globals.c        \
+        lru.c            \
+        lock.c           \
+        hash.c           \
+        fat.c            \
+        bit.c            \
+        block.c          \
+        cluster.c        \
+        dir.c            \
+        mmap.c           \
+        inode.c          \
+        super.c          \
+        file.c           \
+        ioctl.c          \
+        nwdir.c          \
+        nwfile.c         \
+        trustee.c        \
+        nwext.c          \
+        suballoc.c       \
+        create.c         \
+        date.c           \
+        nwcreate.c       \
+        symlink.c        \
+        nwvp.c           \
+        nwvphal.c        \
+        console.c

@@ -1,0 +1,105 @@
+#!/bin/sh
+
+if [ "$1" = "help" -o "$1" = "HELP" ]; then
+   echo "./build help         - this help screen" 
+   echo "./build clean        - do a clean build" 
+   echo "./build all          - build everything" 
+   echo "./build util         - build linux NWFS utilities" 
+   echo "./build driver       - build linux NWFS file system" 
+   echo "./build install      - install NWFS file system/utils" 
+   echo ""
+
+elif [ "$1" = "install" -o "$1" = "install" ]; then
+   install -m 755 nwvol /usr/sbin
+   install -m 755 nwvp /usr/sbin
+   install -m 755 nwdisk /usr/sbin
+   install -m 755 nwdump /usr/sbin
+   install -m 755 nwview /usr/sbin
+   install -m 755 nwconfig /usr/sbin
+   install -m 755 nwrepair /usr/sbin
+
+elif [ "$1" = "clean" -o "$1" = "CLEAN" ]; then
+   make clean 
+
+elif [ "$1" = "all" -o "$1" = "ALL" ]; then
+   echo "performing a build clean"
+   make clean 
+
+   echo "building NWFS utilities"
+   LINUX_UTILITY="1"
+   export LINUX_UTILITY
+
+   make -f util.mak
+
+   echo "building NWFS driver"
+   
+   echo "performing a build clean"
+   make clean 
+   
+   LINUX_DRIVER="1"
+   export LINUX_DRIVER
+   
+   if grep "CONFIG_MODVERSIONS=y" /usr/src/linux/.config; then
+       MODVERSIONS="1"
+       echo "MODVERSIONING support is present"
+   else
+       MODVERSIONS=""
+       echo "MODVERSIONING support not present"
+   fi
+
+   if grep "CONFIG_SMP=y" /usr/src/linux/.config; then
+       SMP="1"
+       echo "SMP support detected"
+   else
+       SMP=""
+       echo "UP support detected"
+   fi
+
+   export MODVERSIONS
+   export SMP
+
+   make 
+
+elif [ "$1" = "util" -o "$1" = "UTIL" ]; then
+   LINUX_UTILITY="1"
+   export LINUX_UTILITY
+
+   make -f util.mak
+
+elif [ "$1" = "driver" -o "$1" = "DRIVER" ]; then
+   LINUX_DRIVER="1"
+   export LINUX_DRIVER
+   
+   if grep "CONFIG_MODVERSIONS=y" /usr/src/linux/.config; then
+       MODVERSIONS="1"
+       echo "MODVERSIONING support is present"
+   else
+       MODVERSIONS=""
+       echo "MODVERSIONING support not present"
+   fi
+
+   if grep "CONFIG_SMP=y" /usr/src/linux/.config; then
+       SMP="1"
+       echo "SMP support detected"
+   else
+       SMP=""
+       echo "UP support detected"
+   fi
+
+   export MODVERSIONS
+   export SMP
+
+   make 
+
+else
+   echo "./build help         - this help screen" 
+   echo "./build clean        - do a clean build" 
+   echo "./build all          - build everything" 
+   echo "./build util         - build linux NWFS utilities" 
+   echo "./build driver       - build linux NWFS file system" 
+   echo "./build install      - install NWFS file system/utils" 
+   echo ""
+
+fi
+
+

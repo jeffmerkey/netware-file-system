@@ -1,0 +1,18 @@
+#
+# Makefile for the Linux nwfs filesystem routines.
+#
+# Note! Dependencies are done automagically by 'make dep', which also
+# removes any old dependencies. DON'T put your own dependencies here
+# unless it's something special (not a .c file).
+#
+# Note 2! The CFLAGS definitions are now in the main makefile.
+
+O_TARGET := nwfs.o
+O_OBJS   := nwvfs.o alloc.o disk.o nwpart.o volume.o globals.o lru.o  \
+	    lock.o hash.o async.o fat.o bit.o block.o cluster.o dir.o         \
+	    mmap.o inode.o super.o file.o ioctl.o nwdir.o nwfile.o nwfix.o \
+	    trustee.o nwext.o suballoc.o create.o date.o              \
+	    nwcreate.o symlink.o nwvp.o nwvphal.o 
+M_OBJS   := $(O_TARGET)
+
+include $(TOPDIR)/Rules.make
