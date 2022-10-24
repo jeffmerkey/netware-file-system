@@ -4,11 +4,11 @@
 *   Copyright (c) 1998, 1999 Jeff V. Merkey
 *   895 West Center Street
 *   Orem, Utah  84057
-*   jmerkey@utah-nac.org
+*   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
-*   under the terms of the GNU General Public License as published by the
-*   Free Software Foundation, version 2, or any later version.
+*   under the terms of the Lesser GNU Public License as published by the
+*   Free Software Foundation, version 2.1, or any later version.
 *
 *   This program is distributed in the hope that it will be useful, but
 *   WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -23,9 +23,9 @@
 *   You are required to respect the rights of the Copyright holders
 *   named within this code.
 *
-*   jmerkey@utah-nac.org is the official maintainer of
+*   jeffmerkey@gmail.com is the official maintainer of
 *   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jmerkey@utah-nac.org
+*   suggestions, and comments about this software to jeffmerkey@gmail.com
 *   or linux-kernel@vger.kernel.org.  New releases, patches, bug fixes, and
 *   technical documentation can be found at www.kernel.org.  We will
 *   periodically post new releases of this software to www.kernel.org
@@ -36,14 +36,14 @@
 *
 *   Original Contributors    :
 *      Jeff V. Merkey
-*      Darren Major
+*      
 *      
 *
 ****************************************************************************
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWDIR.H
-*   DESCRIP  :  FENRIS On-Disk Directory Structures
+*   DESCRIP  :   On-Disk Directory Structures
 *   DATE     :  November 1, 1998
 *
 *
@@ -194,7 +194,7 @@
 
 #define NEW_TRUSTEE_COUNT	        	0x10  // 3.x/4.x Flag
 // For 3.x we assume six trustees per record.  for 4.x and above the number
-// is usually four.  These records are opaque to FENRIS (we do not
+// is usually four.  These records are opaque to  (we do not
 // need them).  At some future date, we may implement trustees for other
 // operating systems than NetWare.
 
@@ -532,7 +532,7 @@ typedef struct _NTNAME
     ULONG  NameList           __attribute__ ((packed));
 } NTNAME;
 
-typedef struct _FENRIS_ROOT
+typedef struct __ROOT
 {
     ULONG  Subdirectory       __attribute__ ((packed));
     ULONG  FileAttributes     __attribute__ ((packed));
@@ -550,9 +550,9 @@ typedef struct _FENRIS_ROOT
     ULONG  FenrisFlags        __attribute__ ((packed));
     ULONG  PrimaryEntry       __attribute__ ((packed));
     ULONG  NameList           __attribute__ ((packed));
-} FENRIS_ROOT;
+} _ROOT;
 
-typedef struct _FENRIS
+typedef struct _
 {
     ULONG  Subdirectory       __attribute__ ((packed));
     ULONG  FileAttributes     __attribute__ ((packed));
@@ -572,7 +572,7 @@ typedef struct _FENRIS
     BYTE   Reserved1[2]       __attribute__ ((packed));
     ULONG  PrimaryEntry       __attribute__ ((packed));
     ULONG  NameList           __attribute__ ((packed));
-} FENRIS;
+} ;
 
 typedef struct _UNIX_EXTENDED_DIR
 {
@@ -886,7 +886,7 @@ typedef struct _NTNAME
     ULONG  NameList;
 } NTNAME;
 
-typedef struct _FENRIS_ROOT
+typedef struct __ROOT
 {
     ULONG  Subdirectory;
     ULONG  FileAttributes;
@@ -904,9 +904,9 @@ typedef struct _FENRIS_ROOT
     ULONG  FenrisFlags;
     ULONG  PrimaryEntry;
     ULONG  NameList;
-} FENRIS_ROOT;
+} _ROOT;
 
-typedef struct _FENRIS
+typedef struct _
 {
     ULONG  Subdirectory;
     ULONG  FileAttributes;
@@ -926,7 +926,7 @@ typedef struct _FENRIS
     BYTE   Reserved1[2];
     ULONG  PrimaryEntry;
     ULONG  NameList;
-} FENRIS;
+} ;
 
 typedef struct _UNIX_EXTENDED_DIR
 {

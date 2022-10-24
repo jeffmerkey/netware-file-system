@@ -4,11 +4,11 @@
 *   Copyright (c) 1998, 1999 Jeff V. Merkey
 *   895 West Center Street
 *   Orem, Utah  84057
-*   jmerkey@utah-nac.org
+*   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
-*   under the terms of the GNU General Public License as published by the
-*   Free Software Foundation, version 2, or any later version.
+*   under the terms of the Lesser GNU Public License as published by the
+*   Free Software Foundation, version 2.1, or any later version.
 *
 *   This program is distributed in the hope that it will be useful, but
 *   WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -23,9 +23,9 @@
 *   You are required to respect the rights of the Copyright holders
 *   named within this code.
 *
-*   jmerkey@utah-nac.org is the official maintainer of
+*   jeffmerkey@gmail.com is the official maintainer of
 *   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jmerkey@utah-nac.org
+*   suggestions, and comments about this software to jeffmerkey@gmail.com
 *   or linux-kernel@vger.kernel.org.  New releases, patches, bug fixes, and
 *   technical documentation can be found at www.kernel.org.  We will
 *   periodically post new releases of this software to www.kernel.org
@@ -36,14 +36,14 @@
 *
 *   Original Contributors    :
 *      Jeff V. Merkey
-*      Darren Major
+*      
 *      
 *
 ****************************************************************************
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVFS.H
-*   DESCRIP  :  FENRIS Linux Virtual File System Definitions
+*   DESCRIP  :   Linux Virtual File System Definitions
 *   DATE     :  November 1, 1998
 *
 *
@@ -52,8 +52,8 @@
 #ifndef _NWFS_VFS_
 #define _NWFS_VFS_
 
-#define FENRIS_REPORT_VOLUMES    25
-#define FENRIS_LINUX_FS_ID       0x777
+#define _REPORT_VOLUMES    25
+#define _LINUX_FS_ID       0x777
 #define LINUX_512_SHIFT          9
 #define LINUX_1024_SHIFT         10
 #define LINUX_2048_SHIFT         11

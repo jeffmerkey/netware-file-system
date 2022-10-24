@@ -4,7 +4,7 @@
 *   Copyright (c) 1999-2000 Jeff V. Merkey
 *   895 West Center Street
 *   Orem, Utah  84057
-*   jmerkey@utah-nac.org
+*   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
 *   under the terms of the TRG Windows NT/2000(tm) Public License (WPL) as
@@ -27,9 +27,9 @@
 *   distribution. You are required to respect the rights of the
 *   Copyright holders named within this code.
 *
-*   jmerkey@utah-nac.org is the official maintainer of
+*   jeffmerkey@gmail.com is the official maintainer of
 *   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jmerkey@utah-nac.org
+*   suggestions, and comments about this software to jeffmerkey@gmail.com
 *   or linux-kernel@vger.kernel.org.  New releases, patches, bug fixes, and
 *   technical documentation can be found at www.kernel.org.  We will
 *   periodically post new releases of this software to www.kernel.org
@@ -48,7 +48,7 @@
 *  Authors:
 *
 *    David Goebel (davidg@balder.com) 19-Jan-1999
-*    Jeff Merkey (jmerkey@utah-nac.org) 19-Jan-1999
+*    Jeff Merkey (jeffmerkey@gmail.com) 19-Jan-1999
 *
 ***************************************************************************/
 

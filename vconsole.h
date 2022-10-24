@@ -4,7 +4,7 @@
 *			    Reserved.
 *
 *
-*   AUTHOR   :  Darren Major
+*   AUTHOR   :  
 *   FILE     :  VNCONSOL.H
 *   DESCRIP  :  VNDI console files
 *   DATE     :  November 3, 1998

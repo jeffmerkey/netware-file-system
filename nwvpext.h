@@ -8,7 +8,7 @@
 *
 ****************************************************************************
 *
-*   AUTHOR   :  Darren Major
+*   AUTHOR   :  
 *   FILE     :  NWVP1.H
 *   DESCRIP  :  NetWare Virtual Partition
 *   DATE     :  August 1, 1999

@@ -11,7 +11,7 @@
 *   and/or civil penalities.
 *
 *
-*   AUTHOR   :  Darren Major
+*   AUTHOR   :  
 *   FILE     :  VNDIMAIN.C
 *   DESCRIP  :  VNDI
 *   DATE     :  November 3, 1998

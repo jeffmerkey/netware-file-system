@@ -4,22 +4,22 @@
 *   Copyright (c) 1998, 1999 Jeff V. Merkey
 *   895 West Center Street
 *   Orem, Utah  84057
-*   jmerkey@utah-nac.org
+*   jeffmerkey@gmail.com
 *
 *   Original Authorship      :
 *      source code written by Jeff V. Merkey
 *
 *   Original Contributors    :
 *      Jeff V. Merkey
-*      Darren Major
+*      
 *      
 *
 ****************************************************************************
 *
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWCONFIG.C
-*   DESCRIP  :  FENRIS Menu Config Utility
+*   DESCRIP  :   Menu Config Utility
 *   DATE     :  November 23, 1999
 *
 *
@@ -2979,7 +2979,7 @@ BYTE *get_full_ns_string(ULONG ns)
 	  return "Windows NT";
 
        case 6:
-	  return "FENRIS";
+	  return "";
 
        default:
 	  return "";

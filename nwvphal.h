@@ -4,7 +4,7 @@
 *                           Reserved.
 *
 *
-*   AUTHOR   :  Darren Major
+*   AUTHOR   :  
 *   FILE     :  NWVPHAL.H
 *   DESCRIP  :  NetWare Virtual Partition
 *   DATE     :  August 1, 1999

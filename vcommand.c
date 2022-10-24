@@ -11,7 +11,7 @@
 *   and/or civil penalities.
 *
 *
-*   AUTHOR   :  Darren Major
+*   AUTHOR   :  
 *   FILE     :  VCOMMAND.C
 *   DESCRIP  :  VNDI OS files
 *   DATE     :  November 30, 1998

@@ -4,8 +4,8 @@
 *   Copyright (c) 1997-2001 Jeff V. Merkey  All Rights Reserved.
 *
 *   This program is free software; you can redistribute it and/or modify it
-*   under the terms of the GNU General Public License as published by the
-*   Free Software Foundation, version 2, or any later version.
+*   under the terms of the Lesser GNU Public License as published by the
+*   Free Software Foundation, version 2.1, or any later version.
 *
 *   This program is distributed in the hope that it will be useful, but
 *   WITHOUT ANY WARRANTY; without even the implied warranty of

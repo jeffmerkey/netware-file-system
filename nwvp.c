@@ -5,8 +5,8 @@
 *   Orem, Utah  84057
 *
 *   This program is free software; you can redistribute it and/or modify it
-*   under the terms of the GNU General Public License as published by the
-*   Free Software Foundation, version 2, or any later version.
+*   under the terms of the Lesser GNU Public License as published by the
+*   Free Software Foundation, version 2.1, or any later version.
 *
 *   This program is distributed in the hope that it will be useful, but
 *   WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -26,12 +26,12 @@
 *
 *   Original Contributors    :
 *      Jeff V. Merkey
-*      Darren Major
+*      
 *      
 *
 ****************************************************************************
 *
-*   AUTHORS  :  Darren Major and Jeff V. Merkey
+*   AUTHORS  :   and Jeff V. Merkey
 *   FILE     :  NWVP.C
 *   DESCRIP  :  NetWare Virtual Partition
 *   DATE     :  August 1, 1999

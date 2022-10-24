@@ -11,9 +11,9 @@
 *   and/or civil penalities.
 *
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVOL.C
-*   DESCRIP  :  FENRIS NWVOL Utility
+*   DESCRIP  :   NWVOL Utility
 *   DATE     :  November 23, 1998
 *
 *

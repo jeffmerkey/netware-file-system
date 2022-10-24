@@ -11,9 +11,9 @@
 *   and/or civil penalities.
 *
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVIEW.C
-*   DESCRIP  :  FENRIS Volume Viewer Utility
+*   DESCRIP  :   Volume Viewer Utility
 *   DATE     :  November 23, 1998
 *
 *

@@ -11,9 +11,9 @@
 *   and/or civil penalities.
 *
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWDISK.C
-*   DESCRIP  :  FENRIS NWDISK Utility
+*   DESCRIP  :   NWDISK Utility
 *   DATE     :  September 23, 1999
 *
 *

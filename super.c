@@ -4,11 +4,11 @@
 *   Copyright (c) 1998, 1999 Jeff V. Merkey
 *   895 West Center Street
 *   Orem, Utah  84057
-*   jmerkey@utah-nac.org
+*   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
-*   under the terms of the GNU General Public License as published by the
-*   Free Software Foundation, version 2, or any later version.
+*   under the terms of the Lesser GNU Public License as published by the
+*   Free Software Foundation, version 2.1, or any later version.
 *
 *   This program is distributed in the hope that it will be useful, but
 *   WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -23,9 +23,9 @@
 *   You are required to respect the rights of the Copyright holders
 *   named within this code.
 *
-*   jmerkey@utah-nac.org is the official maintainer of
+*   jeffmerkey@gmail.com is the official maintainer of
 *   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jmerkey@utah-nac.org
+*   suggestions, and comments about this software to jeffmerkey@gmail.com
 *   or linux-kernel@vger.kernel.org.  New releases, patches, bug fixes, and
 *   technical documentation can be found at www.kernel.org.  We will
 *   periodically post new releases of this software to www.kernel.org
@@ -36,15 +36,15 @@
 *
 *   Original Contributors    :
 *      Jeff V. Merkey
-*      Darren Major
+*      
 *      
 *
 ****************************************************************************
 *
 *
-*   AUTHOR   :  Jeff V. Merkey (jmerkey@utah-nac.org)
+*   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  SUPER.C
-*   DESCRIP  :  FENRIS VFS Super Block Module for Linux*   DATE     :  November 16, 1998
+*   DESCRIP  :   VFS Super Block Module for Linux*   DATE     :  November 16, 1998
 *
 *
 ***************************************************************************/
@@ -80,7 +80,7 @@ struct super_block *nwfs_read_super(struct super_block *sb, void *data, int sile
        NWFSPrint("       and '+' enables the driver to auto-repair volume errors during volume mount\n");
        NWFSPrint("       invoke NWVOL for a listing of detected NetWare Volumes in\n");
        NWFSPrint("       this system.\n\n");
-       NWFSPrint("       FENRIS Utilities for Linux are:\n");
+       NWFSPrint("        Utilities for Linux are:\n");
        NWFSPrint("       NWVOL            - List detected NetWare volumes\n");
        NWFSPrint("       NWDISK/NWCONFIG  - File System/Partition Config Utility\n");
        sb->s_dev = 0;
@@ -134,7 +134,7 @@ struct super_block *nwfs_read_super(struct super_block *sb, void *data, int sile
 	  break;
 	  
     }
-    sb->s_magic = FENRIS_LINUX_FS_ID;
+    sb->s_magic = _LINUX_FS_ID;
     sb->s_dev = dev;
     sb->s_op = &nwfs_sops;
     sb->u.generic_sbp = (void *) volume;
@@ -174,7 +174,7 @@ int nwfs_statfs(struct super_block *sb, struct statfs *buf)
     register VOLUME *volume = (VOLUME *) sb->u.generic_sbp;
     register ULONG bpb = (IO_BLOCK_SIZE / LogicalBlockSize);
 
-    buf->f_type = FENRIS_LINUX_FS_ID;
+    buf->f_type = _LINUX_FS_ID;
     buf->f_bsize = LogicalBlockSize;
     buf->f_blocks = volume->VolumeClusters * volume->BlocksPerCluster * bpb;
     buf->f_bfree = volume->VolumeFreeClusters * volume->BlocksPerCluster * bpb;
@@ -211,7 +211,7 @@ struct super_block *nwfs_read_super(struct super_block *sb, void *data, int sile
        NWFSPrint("       and '+' enables the driver to auto-repair volume errors during volume mount\n");
        NWFSPrint("       invoke NWVOL for a listing of detected NetWare Volumes in\n");
        NWFSPrint("       this system.\n\n");
-       NWFSPrint("       FENRIS Utilities for Linux are:\n");
+       NWFSPrint("        Utilities for Linux are:\n");
        NWFSPrint("       NWVOL            - List detected NetWare volumes\n");
        NWFSPrint("       NWDISK/NWCONFIG  - File System/Partition Config Utility\n");
        sb->s_dev = 0;
@@ -270,7 +270,7 @@ struct super_block *nwfs_read_super(struct super_block *sb, void *data, int sile
 	  break;
 	  
     }
-    sb->s_magic = FENRIS_LINUX_FS_ID;
+    sb->s_magic = _LINUX_FS_ID;
     sb->s_dev = dev;
     sb->s_op = &nwfs_sops;
     sb->u.generic_sbp = (void *) volume;
@@ -311,7 +311,7 @@ int nwfs_statfs(struct super_block *sb, struct statfs *buf, int bufsiz)
     register ULONG bpb = (IO_BLOCK_SIZE / LogicalBlockSize);
     struct statfs tmp;
 
-    tmp.f_type = FENRIS_LINUX_FS_ID;
+    tmp.f_type = _LINUX_FS_ID;
     tmp.f_bsize = LogicalBlockSize;
     tmp.f_blocks = volume->VolumeClusters * volume->BlocksPerCluster * bpb;
     tmp.f_bfree = volume->VolumeFreeClusters * volume->BlocksPerCluster * bpb;
@@ -349,7 +349,7 @@ struct super_block *nwfs_read_super(struct super_block *sb, void *data, int sile
        NWFSPrint("       and '+' enables the driver to auto-repair volume errors during volume mount\n");
        NWFSPrint("       invoke NWVOL for a listing of detected NetWare Volumes in\n");
        NWFSPrint("       this system.\n\n");
-       NWFSPrint("       FENRIS Utilities for Linux are:\n");
+       NWFSPrint("        Utilities for Linux are:\n");
        NWFSPrint("       NWVOL            - List detected NetWare volumes\n");
        NWFSPrint("       NWDISK/NWCONFIG  - File System/Partition Config Utility\n");
        sb->s_dev = 0;
@@ -407,7 +407,7 @@ struct super_block *nwfs_read_super(struct super_block *sb, void *data, int sile
 	  break;
 	  
     }
-    sb->s_magic = FENRIS_LINUX_FS_ID;
+    sb->s_magic = _LINUX_FS_ID;
     sb->s_dev = dev;
     sb->s_op = &nwfs_sops;
     sb->u.generic_sbp = (void *) volume;
@@ -458,7 +458,7 @@ void nwfs_statfs(struct super_block *sb, struct statfs *buf, int bufsiz)
     register ULONG bpb = (IO_BLOCK_SIZE / LogicalBlockSize);
     struct statfs tmp;
 
-    tmp.f_type = FENRIS_LINUX_FS_ID;
+    tmp.f_type = _LINUX_FS_ID;
     tmp.f_bsize = LogicalBlockSize;
     tmp.f_blocks = volume->VolumeClusters * volume->BlocksPerCluster * bpb;
     tmp.f_bfree = volume->VolumeFreeClusters * volume->BlocksPerCluster * bpb;

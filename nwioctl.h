@@ -20,7 +20,7 @@ Abstract:
 Authors:
 
     David Goebel (davidg@balder.com) 19-Jan-1999
-    Jeff Merkey (jmerkey@utah-nac.org) 19-Jan-1999
+    Jeff Merkey (jeffmerkey@gmail.com) 19-Jan-1999
 
 --*/
 
