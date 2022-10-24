@@ -2,8 +2,8 @@
 /***************************************************************************
 *
 *   Copyright (c) 1999-2000 Timpanogas Research Group, Inc.
-*   895 West Center Street
-*   Orem, Utah  84057
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *   jmerkey@timpanogas.com
 *
 *   This program is free software; you can redistribute it and/or modify it
