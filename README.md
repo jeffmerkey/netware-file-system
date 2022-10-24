@@ -114,7 +114,6 @@ C:\>NWVOL
 NWVOL will list all volumes detected on this server.
 ```sh
 NWVOL
-Copyright (C) 1998-1999 Timpanogas Research Group, Inc.
 All Rights Reserved
 
 NetWare Volume(s)
@@ -167,7 +166,6 @@ NWVOL by typing:
 NWVOL will list all volumes detected on this server.
 ```sh
 NWVOL
-Copyright (C) 1998-1999 Timpanogas Research Group, Inc.
 All Rights Reserved
 
 NetWare Volume(s)
@@ -217,7 +215,6 @@ C:\>NWVOL
 NWVOL will list all volumes detected on this server.
 ```sh
 NWVOL
-Copyright (C) 1998-1999 Timpanogas Research Group, Inc.
 All Rights Reserved
 
 NetWare Volume(s)
