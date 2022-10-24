@@ -1,0 +1,20 @@
+#include <windows.h>
+
+#define VER_COMPANYNAME_STR      "Timpanogas Research Group, Inc."
+#define VER_PRODUCTNAME_STR      "NWFS Read-Only Driver"
+#define VER_LEGALCOPYRIGHT_YEARS "1998-1999"
+#define VER_LEGALCOPYRIGHT_STR  "Copyright \251 Timpanogas Research Group, Inc " VER_LEGALCOPYRIGHT_YEARS
+#define VER_PRODUCTVERSION       2, 0, 0, 0
+#define VER_PRODUCTVERSION_STR   "V2.0.0.0"
+#define VER_FILEVERSION          2, 0, 0, 0
+#define VER_FILEVERSION_STR      "2.000"
+#define VER_FILEFLAGS            0
+#define VER_FILEFLAGSMASK        0
+#define VER_FILEOS               VOS_NT_WINDOWS32
+#define VER_FILETYPE             VFT_DRV
+#define VER_FILESUBTYPE          VFT2_UNKNOWN
+#define VER_FILEDESCRIPTION_STR  "file system driver"
+#define VER_ORIGINALFILENAME_STR "nwfsro.sys"
+#define VER_INTERNALNAME_STR     "nwfsro.sys"
+
+#include "common.ver"

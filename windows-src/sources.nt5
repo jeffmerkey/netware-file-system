@@ -1,0 +1,33 @@
+MAJORCOMP=ntos
+MINORCOMP=nwfsro
+
+TARGETNAME=nwfsro
+TARGETTYPE=DRIVER
+TARGETPATH=..
+TARGETLIBS=..\i386\nwfs.lib
+INCLUDES=..\inc;$(BASEDIR)\inc;$(BASEDIR)\src\filesys\inc
+
+MSC_WARNING_LEVEL=/W3 /WX
+
+SOURCES=nwfsro.rc  \
+        CacheSup.c \
+        Cleanup.c  \
+        Close.c    \
+        Create.c   \
+        DevCtrl.c  \
+        DevioSup.c \
+        DirCtrl.c  \
+        FileInfo.c \
+        FilObSup.c \
+        FsCtrl.c   \
+        FspDisp.c  \
+        LockCtrl.c \
+        NameSup.c  \
+        NwData.c   \
+        NwInit.c   \
+        NwSup.c    \
+        Read.c     \
+        ResrcSup.c \
+        Strucsup.c \
+        VolInfo.c  \
+        WorkQue.c
