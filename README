@@ -57,10 +57,11 @@ makefiles support modversioned kernels and naked kernels.
     #define  LINUX_22         1
     #define  LINUX_24         0
 
-make -f nwfs.mak This will make an NWFS driver SMP-no MODVER-no make -f
-nwfsmod.mak This will make an NWFS driver SMP-no MODVER-yes make -f
-nwfssmp.mak This will make an NWFS driver SMP-yes MODVER-no make -f
-nwmodsmp.mak This will make an NWFS driver SMP-yes MODVER-yes
+-   make -f nwfs.mak This will make an NWFS driver SMP-no MODVER-no
+-   make -f nwfsmod.mak This will make an NWFS driver SMP-no MODVER-yes
+-   make -f nwfssmp.mak This will make an NWFS driver SMP-yes MODVER-no
+-   make -f nwmodsmp.mak This will make an NWFS driver SMP-yes
+    MODVER-yes
 
 The Linux versions are supported under the GCC Linux compiler To make
 the Linux tools:
