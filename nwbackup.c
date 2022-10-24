@@ -31,7 +31,7 @@
 *   AUTHORS  :  Jeff V. Merkey
 *   FILE     :  NWIMAGE.C
 *   DESCRIP  :  NWFS Volume Imaging Utility
-*   DATE     :  August 5, 1999
+*   DATE     :  August 5, 2022
 *
 *
 ***************************************************************************/

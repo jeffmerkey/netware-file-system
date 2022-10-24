@@ -1,8 +1,8 @@
 /***************************************************************************
 *
-*   Copyright (c) 1998, 1999 Jeff V. Merkey
-*   895 West Center Street
-*   Orem, Utah  84057
+*   Copyright (c) 1998, 2022 Jeff V. Merkey
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *
 *   This program is free software; you can redistribute it and/or modify it
 *   under the terms of the Lesser GNU Public License as published by the
@@ -34,7 +34,7 @@
 *   AUTHORS  :   and Jeff V. Merkey
 *   FILE     :  NWVP.C
 *   DESCRIP  :  NetWare Virtual Partition
-*   DATE     :  August 1, 1999
+*   DATE     :  August 1, 2022
 *
 ***************************************************************************/
 

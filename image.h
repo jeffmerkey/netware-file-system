@@ -14,7 +14,7 @@
 *   AUTHORS  :  Jeff V. Merkey, J. 
 *   FILE     :  IMAGE.H
 *   DESCRIP  :  NWFS Imaging Utility Includes
-*   DATE     :  August 5, 1999
+*   DATE     :  August 5, 2022
 *
 *
 ***************************************************************************/

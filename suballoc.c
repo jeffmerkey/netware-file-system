@@ -1,9 +1,9 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1998, 1999 Jeff V. Merkey
-*   895 West Center Street
-*   Orem, Utah  84057
+*   Copyright (c) 1998, 2022 Jeff V. Merkey
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
@@ -45,7 +45,7 @@
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  SUBALLOC.C
 *   DESCRIP  :   NetWare File System Suballocation Support
-*   DATE     :  January 9, 1999
+*   DATE     :  January 9, 2022
 *
 *
 ***************************************************************************/

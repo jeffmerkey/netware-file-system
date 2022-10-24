@@ -1,9 +1,9 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1998, 1999 Jeff V. Merkey
-*   895 West Center Street
-*   Orem, Utah  84057
+*   Copyright (c) 1998, 2022 Jeff V. Merkey
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
@@ -49,7 +49,7 @@
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWNTFS.C
 *   DESCRIP  :   NTFS Conversion Utility
-*   DATE     :  November 23, 1999
+*   DATE     :  November 23, 2022
 *
 *
 ***************************************************************************/

@@ -1,7 +1,7 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1998, 1999 Jeff V. Merkey  All Rights
+*   Copyright (c) 1998, 2022 Jeff V. Merkey  All Rights
 *			    Reserved.
 *
 *   Original Authorship      :

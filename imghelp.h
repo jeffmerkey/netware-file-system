@@ -2,8 +2,8 @@
 /***************************************************************************
 *
 *   Copyright (c) 1997-2001 Jeff V. Merkey
-*   895 West Center Street
-*   Orem, Utah  84057
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *   jmerkey@timpanogas.com
 *
 *   This program is free software; you can redistribute it and/or modify it
@@ -49,7 +49,7 @@
 *   AUTHOR   :  Jeff V. Merkey (jmerkey@timpanogas.com)
 *   FILE     :  IMGHELP.H
 *   DESCRIP  :  NWFS Imaging Help Text
-*   DATE     :  December 21, 1999
+*   DATE     :  December 21, 2022
 *
 *
 ***************************************************************************/

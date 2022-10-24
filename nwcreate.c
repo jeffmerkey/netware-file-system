@@ -1,9 +1,9 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1998, 1999 Jeff V. Merkey
-*   895 West Center Street
-*   Orem, Utah  84057
+*   Copyright (c) 1998, 2022 Jeff V. Merkey
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
@@ -45,7 +45,7 @@
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWCREATE.C
 *   DESCRIP  :   Directory Creation and Deletion Routines
-*   DATE     :  February 12, 1999
+*   DATE     :  February 12, 2022
 *
 *
 ***************************************************************************/

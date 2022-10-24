@@ -1,13 +1,9 @@
 
-
 BUILDING NWFS
 -------------
 
-
 BUILD METHOD USING THE BUILD SCRIPT
 -----------------------------------
-
-NOTE:  The new build procedure allows you to simply type 
 
 #
 # ./build <option>
@@ -152,14 +148,14 @@ NWREPAIR       Volume Repair Utility
 To install the Linux version of NWFS 2.0, copy the NWFS.O driver
 to the \lib\modules\misc directory.  Load the driver by typing:
 
-[root@FENRISLAIR]#
-[root@FENRISLAIR]# insmod nwfs
-[root@FENRISLAIR]#
+[root@localhost]#
+[root@localhost]# insmod nwfs
+[root@localhost]#
 
 To query available volumes on this machine that can be mounted, invoke
 NWVOL by typing:
 
-[root@FENRISLAIR]# NWVOL
+[root@localhost]# NWVOL
 
 NWVOL will list all volumes detected on this server.
 
@@ -178,15 +174,15 @@ NetWare Volume(s)
 To mount a NetWare Volume named "SYS" to a pre-exisitng mount point
 (directory) called /SYS, type:
 
-[root@FENRISLAIR]#
-[root@FENRISLAIR]# mount sys /SYS -t nwfs -o SYS
-[root@FENRISLAIR]#
+[root@localhost]#
+[root@localhost]# mount sys /SYS -t nwfs -o SYS
+[root@localhost]#
 
 To dismount, type:
 
-[root@FENRISLAIR]#
-[root@FENRISLAIR]# umount /SYS -t
-[root@FENRISLAIR]#
+[root@localhost]#
+[root@localhost]# umount /SYS -t
+[root@localhost]#
 
 You should copy the utilities into the /usr/bin directory.  If you want to
 change any volume configurations, you should only do so with the driver

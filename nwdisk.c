@@ -1,7 +1,7 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1998, 1999 Jeff V. Merkey  All Rights
+*   Copyright (c) 1998, 2022 Jeff V. Merkey  All Rights
 *			    Reserved.
 *
 *   This program is an unpublished work of TRG, Inc. and contains
@@ -14,7 +14,7 @@
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWDISK.C
 *   DESCRIP  :   NWDISK Utility
-*   DATE     :  September 23, 1999
+*   DATE     :  September 23, 2022
 *
 *
 ***************************************************************************/

@@ -2,8 +2,8 @@
 /***************************************************************************
 *
 *   Copyright (c) 1997-2001 Jeff V. Merkey
-*   895 West Center Street
-*   Orem, Utah  84057
+*   7260 SE Tenino St.
+*   Portland, Oregon 97206
 *   jmerkey@timpanogas.com
 *
 *   This program is free software; you can redistribute it and/or modify it
@@ -49,7 +49,7 @@
 *   AUTHOR   :  Jeff V. Merkey (jmerkey@timpanogas.com)
 *   FILE     :  NWIMAGE.C
 *   DESCRIP  :  NWFS Menu Image/Restore Utility
-*   DATE     :  November 23, 1999
+*   DATE     :  November 23, 2022
 *
 *
 ***************************************************************************/
