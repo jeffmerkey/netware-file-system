@@ -113,9 +113,6 @@ C:\>NWVOL
 ```
 NWVOL will list all volumes detected on this server.
 ```sh
-NWVOL
-All Rights Reserved
-
 NetWare Volume(s)
 [SYS            ] sz-00003751 blk-65536  F/D-0000/0001  (OK)
  NAMESPACES  [ DOS   LONG  NFS  ]
@@ -165,9 +162,6 @@ NWVOL by typing:
 ```
 NWVOL will list all volumes detected on this server.
 ```sh
-NWVOL
-All Rights Reserved
-
 NetWare Volume(s)
 [SYS            ] sz-00003751 blk-65536  F/D-0000/0001  (OK)
  NAMESPACES  [ DOS   LONG  NFS  ]
@@ -214,9 +208,6 @@ C:\>NWVOL
 ```
 NWVOL will list all volumes detected on this server.
 ```sh
-NWVOL
-All Rights Reserved
-
 NetWare Volume(s)
 [SYS            ] sz-00003751 blk-65536  F/D-0000/0001  (OK)
  NAMESPACES  [ DOS   LONG  NFS  ]
