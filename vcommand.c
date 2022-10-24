@@ -1,7 +1,7 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1997, 1998, 2022 Jeff V. Merkey  All Rights
+*   Copyright (c) 1997, 1997-2022 Jeff V. Merkey  All Rights
 *                           Reserved.
 *
 *   This program is an unpublished work of TRG, Inc. and contains

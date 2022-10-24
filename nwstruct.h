@@ -1,7 +1,7 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1998, 2022 Jeff V. Merkey
+*   Copyright (c) 1997-2022 Jeff V. Merkey
 *   7260 SE Tenino St.
 *   Portland, Oregon 97206
 *   jeffmerkey@gmail.com
