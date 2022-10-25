@@ -1,8 +1,4 @@
 
-#
-# Makefile for the FENRIS IFS module For Linux.
-#
-
 
 CC = gcc
 LINK = ld

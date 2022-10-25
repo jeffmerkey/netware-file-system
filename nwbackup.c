@@ -12,22 +12,6 @@
 *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 *   General Public License for more details.
 *
-*   You are free to modify and re-distribute this program in accordance
-*   with the terms specified in the GNU Public License.  The copyright
-*   contained in this code is required to be present in any derivative
-*   works and you are required to provide the source code for this
-*   program as part of any commercial or non-commercial distribution.
-*   You are required to respect the rights of the Copyright holders
-*   named within this code.
-*
-*   jmerkey@timpanogas.com is the official maintainer of
-*   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jmerkey@timpanogas.com
-*   or linux-kernel@vger.rutgers.edu.  New releases, patches, bug fixes, and
-*   technical documentation can be found at www.timpanogas.com.  I will
-*   periodically post new releases of this software to www.timpanogas.com
-*   that contain bug fixes and enhanced capabilities.
-*
 *   AUTHORS  :  Jeff V. Merkey
 *   FILE     :  NWIMAGE.C
 *   DESCRIP  :  NWFS Volume Imaging Utility

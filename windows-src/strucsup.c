@@ -335,7 +335,7 @@ Return Value:
     ASSERT(Vcb->Vpb);
 
     //
-    //  Tell the TRG code that we are dismounting a volume.
+    //  Tell the NWFS code that we are dismounting a volume.
     //
 
     if (Vcb->Vpb) {

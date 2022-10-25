@@ -1,8 +1,4 @@
 
-#
-# Makefile for the FENRIS Utility Makefile For Linux.
-#
-
 CC = gcc
 LINK = ld
 CFLAGS = -Wall -Wstrict-prototypes -O2 -fno-strength-reduce -pipe -m386 \

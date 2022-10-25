@@ -1,8 +1,4 @@
 
-#
-# Makefile for the FENRIS Utility Makefile For MSDOS.
-#
-
 CC = gcc
 LINK = ld
 CFLAGS = -Wall -Wstrict-prototypes -c -g

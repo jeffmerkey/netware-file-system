@@ -13,14 +13,6 @@
 *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 *   General Public License for more details.
 *
-*   You are free to modify and re-distribute this program in accordance
-*   with the terms specified in the GNU Public License.  The copyright
-*   contained in this code is required to be present in any derivative
-*   works and you are required to provide the source code for this
-*   program as part of any commercial or non-commercial distribution.
-*   You are required to respect the rights of the Copyright holders
-*   named within this code.
-*
 *   Original Authorship      :
 *      source code written by Jeff V. Merkey
 *

@@ -1,9 +1,4 @@
 
-#
-# Makefile for the FENRIS IFS module For Linux.
-#
-
-
 CC = gcc
 LINK = ld
 CFLAGS = -DMODULE -D__KERNEL__ -Wall -Wstrict-prototypes -O2 \

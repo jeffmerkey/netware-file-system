@@ -1168,7 +1168,7 @@ Return Value:
 
     //
     //  We want to special case constant names and use the hash built into
-    //  the TRG code.
+    //  the NWFS code.
     //
 
     if (FlagOn(Ccb->Flags, CCB_FLAG_ENUM_CONSTANT)) {

@@ -15,26 +15,6 @@
 *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 *   General Public License for more details.
 *
-*   You should have received a copy of the Lesser GNU Public License along
-*   with this program; if not, write to the Free Software Foundation, Inc.,
-*   675 Mass Ave, Cambridge, MA 02139, USA.
-*
-*   You are free to modify and re-distribute this program in accordance
-*   with the terms specified in the GNU Public License.  The copyright
-*   contained in this code is required to be present in any derivative
-*   works and you are required to provide the source code for this
-*   program as part of any commercial or non-commercial distribution.
-*   You are required to respect the rights of the Copyright holders
-*   named within this code.
-*
-*   jeffmerkey@gmail.com is the official maintainer of
-*   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jeffmerkey@gmail.com
-*   .  New releases, patches, bug fixes, and
-*   technical documentation can be found at repo.icapsql.com.  We will
-*   periodically post new releases of this software to repo.icapsql.com
-*   that contain bug fixes and enhanced capabilities.
-*
 *   Original Authorship      :
 *      source code written by Jeff V. Merkey
 *

@@ -1,8 +1,4 @@
 
-#
-# Makefile for the FENRIS Utility Makefile For Windows NT.
-#
-
 !include <win32.mak>
 
 CC = $(cc)

@@ -3,16 +3,9 @@
 *   Copyright (c) 1997, 1998 Jeff V. Merkey  All Rights
 *			    Reserved.
 *
-*   This program is an unpublished work of TRG, Inc. and contains
-*   trade secrets and other proprietary information.  Unauthorized
-*   use, copying, disclosure, or distribution of this file without the
-*   consent of TRG, Inc. can subject the offender to severe criminal
-*   and/or civil penalities.
-*
-*
 *   AUTHOR   :  
-*   FILE     :  VNDIMAIN.C
-*   DESCRIP  :  VNDI
+*   FILE     :  NWVPMAIN.C
+*   DESCRIP  :  NWVPMAIN
 *   DATE     :  November 3, 1998
 *
 *

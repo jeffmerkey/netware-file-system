@@ -129,9 +129,7 @@ NT File Systems.  You can also mount a specific volume by typing "nwmount
 VOLUME_NAME".
 
 Simply type NWMOUNT.EXE or NWDISMNT.EXE with no arguments and these
-programs will display additional help information.  TRG also sells a
-CD-ROM version of this package with an InstallShield, and Windows
-GUI Utilities.
+programs will display additional help information.  
 
 You should copy the utilities into the /WINNT/System32 directory.  If
 you want to change any volume configurations, you should only do so

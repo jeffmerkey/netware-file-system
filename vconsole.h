@@ -6,7 +6,7 @@
 *
 *   AUTHOR   :  
 *   FILE     :  VNCONSOL.H
-*   DESCRIP  :  VNDI console files
+*   DESCRIP  :  console files
 *   DATE     :  November 3, 1998
 *
 *
