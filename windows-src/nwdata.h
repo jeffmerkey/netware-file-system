@@ -1,6 +1,6 @@
 /*++
 
-Copyright (c) 1999-2000  Timpanogas Research Group, Inc.
+Copyright (c) 1999-2022 Jeffrey V. Merkey
 
 Module Name:
 

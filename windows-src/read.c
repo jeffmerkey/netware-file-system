@@ -1,39 +1,19 @@
 
 /***************************************************************************
 *
-*   Copyright (c) 1999-2000 Timpanogas Research Group, Inc.
+*   Copyright (c) 1999-2022 Jeffrey V. Merkey
 *   7260 SE Tenino St.
 *   Portland, Oregon 97206
-*   jmerkey@timpanogas.com
+*   jeffmerkey@gmail.com
 *
 *   This program is free software; you can redistribute it and/or modify it
-*   under the terms of the TRG Windows NT/2000(tm) Public License (WPL) as
-*   published by the Timpanogas Research Group, Inc.  (Windows NT/2000
+*   under the terms of the Lesser GNU Public License 2.1 as
+*   published by the Free Software Foundation.  (Windows NT/2000
 *   is a registered trademark of Microsoft Corporation).
 *
 *   This program is distributed in the hope that it will be useful, but
 *   WITHOUT ANY WARRANTY; without even the implied warranty of
 *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-*
-*   You should have received a copy of the WPL Public License along
-*   with this program; if not, a copy can be obtained from
-*   www.timpanogas.com.
-*
-*   You are free to modify and re-distribute this program in accordance
-*   with the terms specified in the TRG Windows NT/2000 Public License (WPL).
-*   The copyright contained in this code is required to be present in
-*   any derivative works and you are required to provide the source code
-*   for this program as part of any commercial or non-commercial
-*   distribution. You are required to respect the rights of the
-*   Copyright holders named within this code.
-*
-*   jmerkey@timpanogas.com and TRG, Inc. are the official maintainers of
-*   this code.  You are encouraged to report any bugs, problems, fixes,
-*   suggestions, and comments about this software to jmerkey@timpanogas.com
-*   or linux-kernel@vger.rutgers.edu.  New releases, patches, bug fixes, and
-*   technical documentation can be found at www.timpanogas.com.  TRG will
-*   periodically post new releases of this software to www.timpanogas.com
-*   that contain bug fixes and enhanced capabilities.
 *
 ****************************************************************************
 
@@ -48,7 +28,7 @@ Abstract:
 
   Authors:
 
-    Jeff Merkey (jmerkey@timpanogas.com)
+    Jeff Merkey (jeffmerkey@gmail.com)
     David Goebel (davidg@balder.com) 11-Mar-1999
 
 ****************************************************************************/
