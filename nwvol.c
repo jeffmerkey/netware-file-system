@@ -30,9 +30,9 @@
 *   jeffmerkey@gmail.com is the official maintainer of
 *   this code.  You are encouraged to report any bugs, problems, fixes,
 *   suggestions, and comments about this software to jeffmerkey@gmail.com
-*   or linux-kernel@vger.kernel.org.  New releases, patches, bug fixes, and
-*   technical documentation can be found at www.kernel.org.  We will
-*   periodically post new releases of this software to www.kernel.org
+*   .  New releases, patches, bug fixes, and
+*   technical documentation can be found at repo.icapsql.com.  We will
+*   periodically post new releases of this software to repo.icapsql.com
 *   that contain bug fixes and enhanced capabilities.
 *
 *   Original Authorship      :
