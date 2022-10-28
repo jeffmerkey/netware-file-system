@@ -23,7 +23,7 @@
 *
 ****************************************************************************
 *
-*   AUTHORS  :   and Jeff V. Merkey
+*   AUTHORS  :  Jeff V. Merkey
 *   FILE     :  NWVP.C
 *   DESCRIP  :  NetWare Virtual Partition
 *   DATE     :  August 1, 2022
