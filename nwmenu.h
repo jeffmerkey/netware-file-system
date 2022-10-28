@@ -44,7 +44,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWMENU.H
-*   DESCRIP  :   Menu Lib
+*   DESCRIP  :  Menu Lib
 *   DATE     :  November 29, 2022
 *
 *

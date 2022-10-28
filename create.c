@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  CREATE.C
-*   DESCRIP  :   VFS Directory Create Module for Linux
+*   DESCRIP  :  VFS Directory Create Module for Linux
 *   DATE     :  January 26, 2022
 *
 *

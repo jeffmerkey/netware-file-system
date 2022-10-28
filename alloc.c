@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  ALLOC.C
-*   DESCRIP  :   Operating System Abstraction Layer
+*   DESCRIP  :  Operating System Abstraction Layer
 *   DATE     :  November 1, 1998
 *
 *

@@ -27,7 +27,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWFS.H
-*   DESCRIP  :   Volume and System On Disk Structures
+*   DESCRIP  :  Volume and System On Disk Structures
 *   DATE     :  November 1, 1998
 *
 *

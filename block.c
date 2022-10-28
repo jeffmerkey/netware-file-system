@@ -28,7 +28,7 @@
 *
 *   AUTHORS  :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  BLOCK.C
-*   DESCRIP  :   Block Device Interface Module
+*   DESCRIP  :  Block Device Interface Module
 *   DATE     :  December 2, 1998
 *
 *

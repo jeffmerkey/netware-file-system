@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  CONSOLE.C
-*   DESCRIP  :   Console Abstraction Layer
+*   DESCRIP  :  Console Abstraction Layer
 *   DATE     :  November 1, 1998
 *
 *

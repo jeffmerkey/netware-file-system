@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  HASH.C
-*   DESCRIP  :   Directory Management
+*   DESCRIP  :  Directory Management
 *   DATE     :  November 1, 1998
 *
 ***************************************************************************/

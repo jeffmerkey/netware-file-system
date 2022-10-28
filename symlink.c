@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  SYMLINK.C
-*   DESCRIP  :   Symbolic Link Code for Linux
+*   DESCRIP  :  Symbolic Link Code for Linux
 *   DATE     :  June 24, 2022
 *
 *   This code was adapted from the Linux UMSDOS File system for nwfs.

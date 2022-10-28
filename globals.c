@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  GLOBALS.C
-*   DESCRIP  :   Global Code Variables
+*   DESCRIP  :  Global Code Variables
 *   DATE     :  November 1, 1998
 *
 *

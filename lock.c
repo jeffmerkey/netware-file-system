@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  LOCK.C
-*   DESCRIP  :   Atomic Locking Functions
+*   DESCRIP  :  Atomic Locking Functions
 *   DATE     :  November 1, 1998
 *
 *

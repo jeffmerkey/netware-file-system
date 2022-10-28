@@ -27,7 +27,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWSTRUCT.H
-*   DESCRIP  :   File System Structures
+*   DESCRIP  :  File System Structures
 *   DATE     :  January 20, 2022
 *
 *

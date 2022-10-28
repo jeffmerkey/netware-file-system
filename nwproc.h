@@ -27,7 +27,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWPROC.H
-*   DESCRIP  :   External Declarations
+*   DESCRIP  :  External Declarations
 *   DATE     :  November 1, 1998
 *
 *

@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWCREATE.C
-*   DESCRIP  :   Directory Creation and Deletion Routines
+*   DESCRIP  :  Directory Creation and Deletion Routines
 *   DATE     :  February 12, 2022
 *
 *

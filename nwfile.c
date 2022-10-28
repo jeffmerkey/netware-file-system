@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWFILE.C
-*   DESCRIP  :   NetWare File Management
+*   DESCRIP  :  NetWare File Management
 *   DATE     :  December 14, 1998
 *
 *

@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWFIX.C
-*   DESCRIP  :   NWFS Volume Repair Module
+*   DESCRIP  :  NWFS Volume Repair Module
 *   DATE     :  July 15, 2000
 *
 *

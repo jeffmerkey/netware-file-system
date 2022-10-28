@@ -29,7 +29,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  RWLOCK.C
-*   DESCRIP  :   Reader Writer Locks
+*   DESCRIP  :  Reader Writer Locks
 *   DATE     :  April 2, 2000
 *
 *

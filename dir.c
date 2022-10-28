@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  DIR.C
-*   DESCRIP  :   VFS Dir Module for Linux
+*   DESCRIP  :  VFS Dir Module for Linux
 *   DATE     :  December 5, 1998
 *
 *

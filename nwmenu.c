@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWMENU.C
-*   DESCRIP  :   Text Utility Console Library
+*   DESCRIP  :  Text Utility Console Library
 *   DATE     :  November 23, 2022
 *
 *

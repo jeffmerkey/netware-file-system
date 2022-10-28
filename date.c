@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  DATE.C
-*   DESCRIP  :   Netware and Unix Date/Time conversion routines
+*   DESCRIP  :  Netware and Unix Date/Time conversion routines
 *   DATE     :  January 30, 2022
 *
 *

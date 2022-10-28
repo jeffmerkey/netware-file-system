@@ -43,7 +43,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWDIR.H
-*   DESCRIP  :   On-Disk Directory Structures
+*   DESCRIP  :  On-Disk Directory Structures
 *   DATE     :  November 1, 1998
 *
 *

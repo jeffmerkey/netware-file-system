@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWEXT.C
-*   DESCRIP  :   NetWare Extended Directory Management
+*   DESCRIP  :  NetWare Extended Directory Management
 *   DATE     :  January 4, 2022
 *
 *

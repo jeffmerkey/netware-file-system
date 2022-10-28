@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  LRU.C
-*   DESCRIP  :   LRU Module
+*   DESCRIP  :  LRU Module
 *   DATE     :  November 19, 1998
 *
 *   This is how NetWare does asynch I/O with an LRU.  Somewhat different

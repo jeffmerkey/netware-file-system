@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  IOCTL.C
-*   DESCRIP  :   VFS IOCTL Module for Linux
+*   DESCRIP  :  VFS IOCTL Module for Linux
 *   DATE     :  December 6, 1998
 *
 *

@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  BIT.C
-*   DESCRIP  :   Bit Block Routines for Managing Free Lists
+*   DESCRIP  :  Bit Block Routines for Managing Free Lists
 *   DATE     :  November 16, 1998
 *
 *

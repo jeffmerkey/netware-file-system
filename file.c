@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  FILE.C
-*   DESCRIP  :   VFS File Module for Linux
+*   DESCRIP  :  VFS File Module for Linux
 *   DATE     :  December 6, 1998
 *
 *

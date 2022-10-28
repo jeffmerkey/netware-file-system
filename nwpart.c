@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWPART.C
-*   DESCRIP  :   Netware Partition Module
+*   DESCRIP  :  Netware Partition Module
 *   DATE     :  November 1, 1998
 *
 *

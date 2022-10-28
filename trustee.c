@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  TRUSTEE.C
-*   DESCRIP  :   Trustee Hashing Functions
+*   DESCRIP  :  Trustee Hashing Functions
 *   DATE     :  November 1, 1998
 *
 *

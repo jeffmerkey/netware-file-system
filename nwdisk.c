@@ -6,7 +6,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWDISK.C
-*   DESCRIP  :   NWDISK Utility
+*   DESCRIP  :  NWDISK Utility
 *   DATE     :  September 23, 2022
 *
 *

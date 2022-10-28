@@ -6,7 +6,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVIEW.C
-*   DESCRIP  :   Volume Viewer Utility
+*   DESCRIP  :  Volume Viewer Utility
 *   DATE     :  November 23, 1998
 *
 *

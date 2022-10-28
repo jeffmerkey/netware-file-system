@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  CLUSTER.C
-*   DESCRIP  :   Volume Cluster Routines
+*   DESCRIP  :  Volume Cluster Routines
 *   DATE     :  December 1, 1998
 *
 *

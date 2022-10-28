@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWDIR.C
-*   DESCRIP  :   NetWare Directory Management
+*   DESCRIP  :  NetWare Directory Management
 *   DATE     :  December 7, 1998
 *
 *

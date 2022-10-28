@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  ASYNC.C
-*   DESCRIP  :   Asynch IO Library
+*   DESCRIP  :  Asynch IO Library
 *   DATE     :  July 13, 2000 (my birthday)
 *
 *

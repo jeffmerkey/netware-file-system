@@ -29,7 +29,7 @@
 *
 *   AUTHOR   :  , Jeff V. Merkey
 *   FILE     :  NWREPAIR.C
-*   DESCRIP  :   NetWare File System Repair Tool
+*   DESCRIP  :  NetWare File System Repair Tool
 *   DATE     :  December 10, 2022
 *
 *

@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  INODE.C
-*   DESCRIP  :   VFS inode Module for Linux
+*   DESCRIP  :  VFS inode Module for Linux
 *   DATE     :  November 16, 1998
 *
 *

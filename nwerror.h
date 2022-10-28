@@ -27,7 +27,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWERROR.H
-*   DESCRIP  :   Error Codes
+*   DESCRIP  :  Error Codes
 *   DATE     :  April 3, 2022
 *
 *

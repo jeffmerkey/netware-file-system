@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  SUBALLOC.C
-*   DESCRIP  :   NetWare File System Suballocation Support
+*   DESCRIP  :  NetWare File System Suballocation Support
 *   DATE     :  January 9, 2022
 *
 *

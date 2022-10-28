@@ -27,7 +27,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVFS.H
-*   DESCRIP  :   Linux Virtual File System Definitions
+*   DESCRIP  :  Linux Virtual File System Definitions
 *   DATE     :  November 1, 1998
 *
 *

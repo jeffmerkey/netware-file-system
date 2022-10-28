@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWHELP.H
-*   DESCRIP  :   Menu Config Help Text
+*   DESCRIP  :  Menu Config Help Text
 *   DATE     :  November 29, 2022
 *
 *

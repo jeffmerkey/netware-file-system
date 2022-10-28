@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  MMAP.C
-*   DESCRIP  :   VFS Memory Mapping Module for Linux
+*   DESCRIP  :  VFS Memory Mapping Module for Linux
 *   DATE     :  December 6, 1998
 *
 *

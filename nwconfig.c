@@ -19,7 +19,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWCONFIG.C
-*   DESCRIP  :   Menu Config Utility
+*   DESCRIP  :  Menu Config Utility
 *   DATE     :  November 23, 2022
 *
 *

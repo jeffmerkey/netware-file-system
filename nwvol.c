@@ -29,7 +29,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVOL.C
-*   DESCRIP  :   VOlume DIsplay Utility
+*   DESCRIP  :  VOlume DIsplay Utility
 *   DATE     :  November 1, 1998
 *
 *

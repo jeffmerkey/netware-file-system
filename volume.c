@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  VOLUME.C
-*   DESCRIP  :   Netware Volume Manager
+*   DESCRIP  :  Netware Volume Manager
 *   DATE     :  November 1, 1998
 *
 *

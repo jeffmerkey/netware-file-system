@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  FAT.C
-*   DESCRIP  :   FAT Module
+*   DESCRIP  :  FAT Module
 *   DATE     :  November 16, 1998
 *
 *

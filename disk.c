@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  DISK.C
-*   DESCRIP  :   PC Platform Disk Support
+*   DESCRIP  :  PC Platform Disk Support
 *   DATE     :  November 1, 1998
 *
 *

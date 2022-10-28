@@ -6,7 +6,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVOL.C
-*   DESCRIP  :   NWVOL Utility
+*   DESCRIP  :  NWVOL Utility
 *   DATE     :  November 23, 1998
 *
 *

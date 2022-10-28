@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  RAPIDFAT.C
-*   DESCRIP  :   Rapid FAT Module
+*   DESCRIP  :  Rapid FAT Module
 *   DATE     :  July 11, 2022
 *
 *

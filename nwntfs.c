@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWNTFS.C
-*   DESCRIP  :   NTFS Conversion Utility
+*   DESCRIP  :  NTFS Conversion Utility
 *   DATE     :  November 23, 2022
 *
 *

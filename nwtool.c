@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWTOOL.C
-*   DESCRIP  :   NWFS Tools
+*   DESCRIP  :  NWFS Tools
 *   DATE     :  March 27, 2000
 *
 *

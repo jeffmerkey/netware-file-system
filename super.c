@@ -28,7 +28,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  SUPER.C
-*   DESCRIP  :   VFS Super Block Module for Linux*   DATE     :  November 16, 1998
+*   DESCRIP  :  VFS Super Block Module for Linux*   DATE     :  November 16, 1998
 *
 *
 ***************************************************************************/

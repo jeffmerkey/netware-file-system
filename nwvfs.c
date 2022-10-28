@@ -19,7 +19,7 @@
 *
 *   AUTHOR   :  Jeff V. Merkey (jeffmerkey@gmail.com)
 *   FILE     :  NWVFS.C
-*   DESCRIP  :   VFS Module for Linux
+*   DESCRIP  :  VFS Module for Linux
 *   DATE     :  November 16, 1998
 *
 *
