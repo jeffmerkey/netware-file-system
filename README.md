@@ -2,7 +2,15 @@ NOTE:  This code project is very old and requires cleanup and was last maintaine
 in 2001.  When I get some time, I will update this project to the newer gcc compilers 
 and modernize and test it.  This project is primarily provided for people who need to 
 migrate data from old netware servers to linux or windows, and to provide a reference 
-code set that describes the old netware filesystem on disk structures and namespaces.  
+code set that describes the old netware filesystem on disk structures and namespaces
+for the sake of history.  There is also a bug in the linux SMP code sections that 
+creates problems for writing this filesystem due to how spinlocks are being used.  
+This bug does not affect the windows or DOS builds, and is easily fixed.  The bug
+deals with how spinlocks are used due to subtle changes between linux versions in 
+how linux preserves flags using spinlocks that fails to properly restore interrupt
+flags states.  I will add that fix to the TODO list.  Anyone who wants to help 
+cleanup this old project is welcome just submit a pull request if you make some 
+useful changes.  
 
 # netware-file-system 
 
