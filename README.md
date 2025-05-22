@@ -1,3 +1,8 @@
+NOTE:  This code project is very old and requires cleanup and was last maintained
+in 2001.  When I get some time, I will update this project to the newer gcc compilers 
+and modernize and test it.  This project is primarily provided for people who need to 
+migrate data from old netware servers to linux or windows, and to provide a reference 
+code set that describes the old netware filesystem on disk structures and namespaces.  
 
 # netware-file-system 
 
