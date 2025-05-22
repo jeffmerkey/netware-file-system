@@ -11,6 +11,9 @@ how linux preserves flags using spinlocks that fails to properly restore interru
 flags states.  I will add that fix to the TODO list.  Anyone who wants to help 
 cleanup this old project is welcome just submit a pull request if you make some 
 useful changes.  
+For the Windows build, the nwfsro.ini file is missing from the main tree and was 
+lost over time from the backups.  This file is used to install the nwfsro.sys driver
+on Windows server.  This is added to the TODO list as well. 
 
 # netware-file-system 
 
